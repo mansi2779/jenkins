@@ -11,7 +11,7 @@ namespace jenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins");
-            Console.WriteLine("HEY")
+            Console.WriteLine("HEY");
         }
     }
 }
